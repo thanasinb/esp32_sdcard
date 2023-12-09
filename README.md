@@ -1,3 +1,6 @@
+##This code is for the SD card adapter below; it included a 3V3 regulator therefore we need to connect VCC to 5V
+![image](https://github.com/thanasinb/esp32_sdcard/assets/55657279/6f324050-dee7-4900-8214-0c8847cecd7d)
+
 <table>
   <tr>
     <td>MicroSD card module</td>
